@@ -4,7 +4,7 @@
   "description": "A starter project to clone for fast HTML+SASS+JS",
   "main": "index.js",
   "scripts": {
-    "dev": "parcel src/index.html"
+    "dev": "parcel src/index.html --open"
   },
   "author": "Jacopo Marrone",
   "license": "ISC",
