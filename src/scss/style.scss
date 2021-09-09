@@ -1,0 +1,13 @@
+html {
+  height: 100%;
+}
+body {
+  background-color: black;
+  color: white;
+  font-family: monospace;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  transition: all 2s;
+}

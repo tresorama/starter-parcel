@@ -1,0 +1,15 @@
+{
+  "name": "parcel-starter",
+  "version": "1.0.0",
+  "description": "A starter project to clone for fast HTML+SASS+JS",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html"
+  },
+  "author": "Jacopo Marrone",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5",
+    "sass": "^1.39.0"
+  }
+}
